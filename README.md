@@ -6,6 +6,6 @@ Programma "uzmini skaitli" bija uzdevums uztaisīt lai tu atrodi skaitli ko dato
 
 Programma "Palindromu" (ar nobeigumu "_a" un "_b") uzdevums ir pateikt vai skaitlis ir palindroms. Galvenais uzdevums kad tu ivadi, dators pateiks vai tas ir (tas ir A versija). Papildus bija kā dators atrod un izdod skaitļus kas ir palindroms līdz 100000.
 
-Mapes "fight" uzdevums bijis lai uztaisu pēc kārtu ciņu, kur ari mainas kur uzbrūk un kurš aizargājas. Papildus uzdevums bija lai uztaisīt kā pats to dara, gan 1 v datoru, un dators pret datoru.
+Mapes "fight" uzdevums bijis lai uztaisu pēc kārtu ciņu, kur ari mainas kur uzbrūk un kurš aizargājas. Papildus uzdevums bija lai uztaisīt kā pats to dara, gan 1 vs datoru, un dators vs datoru.
 
 "md2_program" neuzpēju pabeigt, bet pamats bija kā mēs pagatavojam šablonu klasi. 
