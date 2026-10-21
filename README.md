@@ -1,5 +1,5 @@
-Te ielikti skolas darbi
-Visi darbi kas te ielikti ir uzdotie mājasdarbu uzdevumi. Tie bija uzdevumi kas itekmēja vērtejumu. Vertejumu skaitīja mājasdarbos no 9 punktiem ja tas tika pareizi izpildīts, 10 punkti ja bija nosacījumi papildus izdarīti.
+Te ielikti skolas darbi.
+Visi darbi kas te ielikti ir uzdotie mājasdarbu uzdevumi. Es nelicis mazos uzdevumus, jo tie man liekas nederētu piemēros. Tie bija uzdevumi kas itekmēja vērtejumu. Vertejumu skaitīja mājasdarbos no 9 punktiem ja tas tika pareizi izpildīts, 10 punkti ja bija nosacījumi papildus izdarīti.
 Vairāki no šim darbiem bija fokusēti uz maksimālu punktu skaitu.
 
 Programma "uzmini skaitli" bija uzdevums uztaisīt lai tu atrodi skaitli ko dators uzģenerēja, un "dators_min" papild uzdevums kur datoram jatrod tavu skaitli.
